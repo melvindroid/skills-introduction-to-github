@@ -1,0 +1,6 @@
+Nom du Mac : 
+macOS : 
+Modèle : Mac14,9
+Mémoire (octets) : 17179869184
+Disque : /dev/disk3s3s1   460Gi    12Gi    88Gi    12%    459k  927M    0%   /
+Série :       Serial Number (system): M66XFK6KQ2
