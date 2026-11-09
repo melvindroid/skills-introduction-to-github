@@ -36,7 +36,7 @@ do
 
         mv -n "$fichier" "$destination/"
 		
-		echo "fin du rangement"
+echo "fin du rangement"
 
     fi
 done
